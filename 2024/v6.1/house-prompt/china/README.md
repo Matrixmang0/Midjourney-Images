@@ -2,9 +2,6 @@
 
 # Image Gallery
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="A_house_in_China__1.png" alt="Image 1" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
-  <img src="A_house_in_China__2.png" alt="Image 2" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
-  <img src="A_house_in_China__3.png" alt="Image 3" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
-  <img src="A_house_in_China__4.png" alt="Image 4" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;">
-</div>
+| ![Image 1](A_house_in_China__1.png) | ![Image 2](A_house_in_China__2.png) |
+|-------------------------------------|-------------------------------------|
+| ![Image 3](A_house_in_China__3.png) | ![Image 4](A_house_in_China__4.png) |
