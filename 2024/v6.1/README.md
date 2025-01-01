@@ -28,7 +28,7 @@ Given 5 categories and 6 countries, the total number of images generated is:
 
 ## Generated Image Overview
 
-![Indonesian woman](./plate-prompt/india/u3266513238_A_plate_of_Indian_food_--v_6.1_e53826cd-5c81-43c1-a869-5a471f33a351_3.png)
+![Indonesian woman](./plate-prompt/india/A_plate_of_Indian_food__4.png)
 This linked image provides a representative visual of the outputs generated.
 
 ## Usage
